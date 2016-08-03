@@ -14,6 +14,8 @@ Bad Apple!! Feat. ASCII animation in Emacs
 
 (Note: you will need to set your Emacs width to *at least* 84 chars and height to *exactly* 32 chars to fit the size of each frame)
 
+Also: (Click [HERE](http://www.bilibili.com/video/av2393380/) to watch a demo!)
+
 ![Emacs](img/emacs.png)
 
 ![VLC](img/vlc.png)
